@@ -5,7 +5,7 @@ function writeMsg() {
 
 writeMsg();   // Вызов функции
 
-
+echo "new";
 echo '<hr>';
 
 $cars = array("BMW", "MUSTANG", "MERCEDES-BENZ", "BUGATTI");
